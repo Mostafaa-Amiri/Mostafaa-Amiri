@@ -1,82 +1,60 @@
 # Mostafa Amiri
 
-### Electronics & Control Engineer | Researcher | Intelligent Control & Embedded Systems | Smart Energy Systems | Physics-Based Modelling | Signal Processing & Sensor-Based Estimation
+**Electronics & Control Engineer | Researcher | Embedded Systems | Intelligent Control | Modeling & Optimization**
 
-*Exploring engineering systems that sense, model, decide, and adapt.*
+*Exploring engineering systems that sense, decide, and adapt.*
 
-I am an electronics engineer and researcher with experience spanning **mathematical modeling, simulation, optimization, electronic circuit design, embedded systems, and experimental validation**.
+I am an electronics engineer and researcher specializing in **electronic development, intelligent control, embedded systems, mathematical modeling, and optimization.**
 
-My work connects theoretical methods with practical engineering, from physics-informed models and control algorithms to custom PCBs, embedded firmware, sensing platforms, and integrated hardware–software systems.
+My work bridges theoretical research and practical engineering, from physical modeling and control algorithms to PCB design, embedded firmware, human–machine interfaces, and experimentally validated systems.
 
-My academic research at the **University of Tehran** focuses on intelligent lighting control, while my professional engineering experience includes the development of electronics and control systems for medical and aesthetic devices.
+## Featured Projects
 
-## Featured Research & Engineering Projects
+### 1. [Smart Indoor Lighting Control System](https://github.com/Mostafaa-Amiri/smart-indoor-lighting-control-system)
 
-### 1. Smart Indoor Lighting Control System
 **University of Tehran | M.Sc. Research**
 
-An integrated research platform for adaptive, energy-efficient indoor lighting control, combining physical modeling, real-time sensing, optimization, embedded electronics, and experimental validation.
+An intelligent, energy-efficient lighting platform integrating custom electronics, sensing, daylight modeling, optimization algorithms, and real-time control.
 
-- **Hardware:** Smart LED panels, custom LED drivers, flicker measurement, illuminance and presence sensing, touch switches, schematics, and PCBs.
-- **Modeling & Simulation:** DIALux, Honeybee-Radiance, daylight estimation, spatial illuminance modeling, and system calibration.
-- **Control & Optimization:** Constrained optimization, sensor-placement optimization, feedback control, and model-based daylight estimation.
-- **Software & Embedded Systems:** Python, MATLAB, ESP firmware, MQTT-based communication, Raspberry Pi, YOLO-based presence detection, and Streamlit dashboards.
-- **Experimental Research:** Measurement campaigns, signal processing, simulation–measurement comparison, system characterization, and performance evaluation.
+### 2. [HIFU Device — Electronics & Control](https://github.com/Mostafaa-Amiri/hifu-device-electronics-and-control)
 
-*Detailed technical documentation, system architecture, source code, photographs, and experimental results are being organized.*
+**Professional Engineering Project**
 
-### 2. HIFU Device — Electronics & Control System
-**Dermatech | Professional Engineering Project**
+Reverse engineering, redesign, and development of a HIFU device, including custom analog/digital PCBs, STM32 firmware, touchscreen HMI, and system integration.
 
-Electronic hardware and embedded control development for a High-Intensity Focused Ultrasound (HIFU) device.
+### 3. [Carboxytherapy Device — Electronics & Control](https://github.com/Mostafaa-Amiri/carboxytherapy-device-electronics-and-control)
 
-Work includes electronic control boards, embedded firmware, sensor interfaces, control logic, hardware integration, and system-level testing.
+**Professional Engineering Project**
 
-### 3. Carboxytherapy Device — Embedded Control & Electronics
-**Dermatech | Professional Engineering Project**
-
-Electronics and embedded-system development for a carboxytherapy device, involving control circuitry, sensing, actuator coordination, firmware implementation, and device integration.
-
-### 4. Embedded Patient Health Monitoring System
-**Shahid Beheshti University | B.Sc. Thesis**
-
-Development of a microcontroller-based biomedical monitoring system integrating physiological sensors, signal acquisition and processing, GSM communication, and battery-powered operation.
-
-The project covers sensor interfacing, embedded C firmware, power management, battery protection, and data transmission.
+End-to-end development of an STM32-based medical-aesthetic device featuring pressure-feedback control, motorized valve regulation, automated calibration, fault monitoring, and a custom HMI.
 
 ## Selected Publications
 
-**2026 — IEEE ICEE**
-
-[On-the-Fly Frequency-Oriented Calibration for Real-Time, Power-Efficient, and Dynamic Control of Smart Lighting Systems](https://doi.org/10.1109/icee70628.2026.11710520)
-
-**2025 — IEEE Smart Grid Conference**
-
-[Design of a Flicker-Free Smart Lighting Panel with a Custom Low-Cost Flicker Measurement Module](https://doi.org/10.1109/sgc69320.2025.11372343)
+- **IEEE ICEE 2026:** [On-the-Fly Frequency-Oriented Calibration for Real-Time, Power-Efficient, and Dynamic Control of Smart Lighting Systems](https://doi.org/10.1109/icee70628.2026.11710520)
+- **IEEE SGC 2025:** [Design of a Flicker-Free Smart Lighting Panel with a Custom Low-Cost Flicker Measurement Module](https://doi.org/10.1109/sgc69320.2025.11372343)
 
 ## Technical Expertise
 
-| Area | Technologies & Methods |
-|---|---|
-| Electronics & Hardware | Circuit Design, PCB Development, Analog/Digital Electronics, Power Electronics, Altium Designer |
-| Embedded Systems | STM32, ESP8266, Raspberry Pi, Embedded C, Sensor Interfacing |
-| Programming & Data Analysis | Python, C, MATLAB, NumPy, SciPy, pandas |
-| Modeling & Simulation | Honeybee-Radiance, DIALux, Simulink, LTspice, HSPICE, Cadence |
-| Control & Optimization | Model-Based Control, Constrained Optimization, Linear Programming, System Identification |
-| Intelligent Sensing | Signal Processing, FFT, Sensor Calibration, Clustering, YOLO |
-| System Integration | MQTT, IoT Architecture, Monitoring Dashboards, Experimental Validation |
+**Electronics:** Analog/Digital Circuit Design, PCB Development, Power Electronics, Altium Designer
 
-## Research Interests
+**Embedded & Software:** STM32, ESP8266/ESP32, Embedded C, Python, MATLAB, Raspberry Pi
 
-Adaptive and intelligent control, physics-informed and data-driven modeling, estimation and optimization, signal processing, digital twins, and energy-efficient intelligent systems.
+**Research & Control:** Physical Modeling, System Identification, Optimization, Signal Processing, Intelligent Sensing, Experimental Validation
 
-## Connect
+## Collaboration & Contact
 
-- [LinkedIn](https://www.linkedin.com/in/mostafaa-amiri/)
-- [GitHub](https://github.com/Mostafaa-Amiri)
-- Email: Info@MostafaAmiri.de
+I independently designed, developed, and implemented the engineering projects featured in this portfolio.
+
+These repositories showcase my work and provide technical references to inspire learning, research, and independent engineering development.
+
+**I'm open to research collaborations, PhD opportunities, engineering projects, and technical partnerships.** Feel free to contact me to discuss potential opportunities.
+
+- **Email:** [mostafaa.amirii@gmail.com](mailto\:mostafaa.amirii@gmail.com)
+- **Alternative email:** [info@MostafaAmiri.de](mailto\:info@MostafaAmiri.de)
+- **LinkedIn:** [Mostafa Amiri](https://www.linkedin.com/in/mostafaa-amiri/)
 
 ---
 
-*This portfolio documents research, engineering development, and practical implementations. Detailed project repositories and supporting technical material will be added progressively.*
+**© 2026 Mostafa Amiri. All rights reserved.**
 
+Original project materials remain the intellectual property of their respective rights holders. Unless explicitly licensed otherwise, public access is provided for demonstration and educational reference and does not grant permission for reproduction, redistribution, or commercial reuse. Academic citations and links to the original repositories are welcome.
